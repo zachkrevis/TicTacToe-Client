@@ -143,4 +143,8 @@ p {
   .play_again {
     width: 80%;
   }
+
+  .board {
+    width: 90%;
+  }
 }
