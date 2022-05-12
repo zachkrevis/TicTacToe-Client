@@ -85,7 +85,7 @@ function App() {
         setPlayAgainShown(true);
 			}, 500);
 		});
-	}, [socket]);
+	}, []);
 
 	return (
 		<div className="App">
