@@ -140,12 +140,13 @@ p {
 }
 
 
-@media (max-width: 540px) { 
+@media (max-width: 720px) { 
   .play_again {
     width: 80%;
   }
 
-  .board {
-    width: 80%;
+  .Spot {
+    width: 80px;
+    height: 80px;
   }
 }
